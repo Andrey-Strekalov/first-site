@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+}
+header{
+  background: url("./project/repead-fone.jpg") repeat-x;
+  background-color: rgb(139, 150, 189);
+ 
+  color: rgb(255, 0, 0);
+  font-family: cursive;
+}
+footer{
+  background: url("./project/repead-fone.jpg") no-repeat;
+  background-size: 1920px 370px;
+  color: white;
+  
+}
+.emalle{
+  padding-left: 30px;
+  padding-top: 10px;
+ }
+ .contacts{
+  padding-left: 30px;
+  padding-top: 30px;
+  
+}
+ 
+ 
+ main{
+    background-color: rgb(196, 202, 106);
+    background-attachment: fixed;
+    background-image: url("./project/sandy.png");
+  }
+.screen img{
+     border: 5px  solid rgb(58, 165, 201);
+     margin: 15px;
+   }
+.logo{
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: -60px;
+  padding: 10px;
+  border: 3px solid rgb(131, 36, 30);
+  
+   }
+h1{
+  margin-left: 200px;
+  padding: 20px;
+  font-size: 40px; 
+}
+.home{
+   font-size: 30px;
+   color: yellow;
+   margin-top: -90px;
+   padding: 40px;
+     
+}
+ 
+      
